@@ -4,7 +4,7 @@ first_number = 4
 second_number = 2
 difference = 2
 product = 8
-quotient = 2
+quotient = (1/2)
 
 describe "./calculator.rb" do
 
