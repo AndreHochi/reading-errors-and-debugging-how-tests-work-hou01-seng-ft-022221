@@ -4,4 +4,4 @@ second_number = 2
 sum = 6
 difference = 2
 product = 8
-quotient = (1/2)
+quotient = 2
