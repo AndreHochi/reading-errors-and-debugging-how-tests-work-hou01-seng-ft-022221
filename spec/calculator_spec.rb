@@ -1,7 +1,10 @@
 # Code your solution in calculator.rb
 
-first_number = 1
+first_number = 4
 second_number = 2
+difference = 2
+product = 8
+quotient = (1/2)
 
 describe "./calculator.rb" do
 
